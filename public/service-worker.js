@@ -14,7 +14,9 @@ const FILES_TO_CACHE = [
     "./icons/icon-384x384.png",
     "./icons/icon-512x512.png",
     "./js/index.js",
-    "./js/idb.js"
+    "./js/idb.js",
+    "./manifest.json"
+    
   ];
 
 self.addEventListener('install', function (e) {

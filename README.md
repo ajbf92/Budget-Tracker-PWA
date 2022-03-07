@@ -18,7 +18,7 @@ No installations are required. Just go to the deployed application:
 
 ## Usage
 
-Budget Example:
+Budget Example (Last two transactions red due to no internet connection):
 ![ScreenShot](images/budgetTracker.png)
   
 ## Contributions

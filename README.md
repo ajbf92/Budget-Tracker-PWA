@@ -14,6 +14,7 @@ To create a fast and easy way to track your money with or without an internet co
 ## Installation
 
 No installations are required. Just go to the deployed application:
+https://obscure-brushlands-97362.herokuapp.com/
 
 
 ## Usage

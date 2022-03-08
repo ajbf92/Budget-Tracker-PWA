@@ -82,7 +82,7 @@ getAll.onsuccess = function() {
         .catch(err => {
           console.log(err);
         });
-    } else if (getAll.result.length > 0) {
+    } else {
         fetch('/api/transaction', {
           method: 'POST',
           body: JSON.stringify(getAll.result),
